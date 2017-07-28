@@ -1,3 +1,5 @@
+Generic web server writen for my interview pre-screen with Blizzard.
+
 Notes
 -----
 * Requires JDK 1.7 or higher
